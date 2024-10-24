@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\Employee Salary Calculator\Employee Salary Calculator\obj\Debug\Employee Salary Calculator.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Employee Salary Calculator\Employee Salary Calculator\obj\Debug\Employee_Salary_Calculator.Form1.resources
+C:\Users\PC\source\repos\Employee Salary Calculator\Employee Salary Calculator\obj\Debug\Employee_Salary_Calculator.Properties.Resources.resources
+C:\Users\PC\source\repos\Employee Salary Calculator\Employee Salary Calculator\obj\Debug\Employee Salary Calculator.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Employee Salary Calculator\Employee Salary Calculator\obj\Debug\Employee Salary Calculator.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Employee Salary Calculator\Employee Salary Calculator\bin\Debug\Employee Salary Calculator.exe.config
+C:\Users\PC\source\repos\Employee Salary Calculator\Employee Salary Calculator\bin\Debug\Employee Salary Calculator.exe
+C:\Users\PC\source\repos\Employee Salary Calculator\Employee Salary Calculator\bin\Debug\Employee Salary Calculator.pdb
+C:\Users\PC\source\repos\Employee Salary Calculator\Employee Salary Calculator\obj\Debug\Employee Salary Calculator.exe
+C:\Users\PC\source\repos\Employee Salary Calculator\Employee Salary Calculator\obj\Debug\Employee Salary Calculator.pdb
